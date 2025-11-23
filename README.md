@@ -16,7 +16,7 @@ Demonstrate various UI/UX design tools in detail.
 Output:
 
 
-[ui ux.pdf](https://github.com/user-attachments/files/23631873/ui.ux.pdf)
+[UI and UX lab exp 1.pdf](https://github.com/user-attachments/files/23696223/UI.and.UX.lab.exp.1.pdf)
 
 
 ## Result:
